@@ -1,0 +1,29 @@
+git init
+  ls
+  git status
+ git add demo.py
+   git status
+   git commit -m "added demo python file"
+     git status
+  rm demo.py
+  ls
+  git status
+  git restore demo.py
+  ls
+   git remote -v
+   git push origin master
+   git remote -v
+    git remote set-url origin https://@github.com/krishnarai2025/git-for-devops.git
+     git remote -v
+     git push 
+    git push origin master
+    git push origin main
+    git push origin master
+   git branch
+    git push origin main
+    git remote -v
+     git remote set-url origin https://@github.com/krishnarai2025/git-for-devops.git
+    git remote -v
+    git branch
+    git push origin main
+    git commit  
